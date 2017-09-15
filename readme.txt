@@ -1,2 +1,2 @@
-this is a test 
-git is a softwear
+Git is a distributed version control system.
+Git is free software.
